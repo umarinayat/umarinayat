@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Umar Inayat</h1>
-<h3 align="center">🚀 Full-Stack Developer | MEVN | MERN | Angular | .NET | QA Team Lead</h3>
+<h3 align="center">🚀 Full-Stack Developer | MEVN | MERN | MEAN | SQL | AZURE | MONGO</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umar-inayat-643510121/" target="_blank">
