@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | MEVN | MERN | Angular | .NET | QA Team Lead</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/umarinayat" target="_blank">
+  <a href="https://www.linkedin.com/in/umar-inayat-643510121/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/umarinayat" target="_blank">
@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me
 
-🔹 Experienced **Full-Stack Developer** with expertise in **MEVN, MERN, Angular, and .NET**.  
-🔹 Currently **QA Team Lead**, ensuring robust testing and quality assurance.  
+🔹 Experienced **Full-Stack Developer** with expertise in **MEVN, MERN, MEAN, and Electron**.  
+🔹 Currently **Project Lead**, ensuring client communication and building solutions.  
 🔹 Passionate about **clean code, performance optimization, and scalable architectures**.  
 🔹 Strong problem-solving skills, with hands-on experience in **SQL, NoSQL, Firebase, NestJS, and Cloud Services**.  
 
@@ -28,24 +28,20 @@
 **Frontend:**
 - JavaScript (ES6+), TypeScript
 - Vue.js (Vuex, Pinia), React.js, Next.js
-- Angular (RxJS, NgRx), Tailwind CSS, Bootstrap
+- Angular (RxJS, NgRx), Tailwind CSS, Bootstrap and ManyMore
 
 **Backend:**
 - Node.js, Express.js, NestJS
 - .NET 8 (C#), T-SQL
-- RESTful APIs, GraphQL, Firebase
+- RESTful APIs, Firebase
 
 **Databases:**
 - MySQL, PostgreSQL, MongoDB, Firestore
 - ORM/ODM: Sequelize, TypeORM, Mongoose
 
 **DevOps & Cloud:**
-- Docker, Kubernetes, CI/CD (GitHub Actions)
-- AWS (S3, EC2), Azure Blob Storage
-
-**Testing & QA:**
-- Cypress, Jest, Mocha, Selenium
-- Manual & Automated Testing, Performance Testing
+- Docker, CI/CD (GitHub Actions)
+- Azure
 
 ---
 
@@ -70,7 +66,7 @@
 ---
 
 ### 📬 Connect with Me
-💼 **LinkedIn:** [Umar Inayat](https://www.linkedin.com/in/umarinayat)  
+💼 **LinkedIn:** [Umar Inayat](https://www.linkedin.com/in/umar-inayat-643510121/)  
 💻 **GitHub:** [@umarinayat](https://github.com/umarinayat)  
 📧 **Email:** umarinayat111@gmail.com  
 
